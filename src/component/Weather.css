@@ -1,0 +1,56 @@
+
+
+/* Weather.css */
+
+body{
+    background-color: #333;
+}
+
+.weather-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color:white;
+  }
+  
+  .weather-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .weather-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .weather-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .weather-info {
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    color: #333;
+  }
+  
+  .weather-info h2 {
+    color: #333;
+  }
+  
+  .weather-info p {
+    margin: 5px 0;
+  }
+  .App{
+    color:whitesmoke
+    
+  }

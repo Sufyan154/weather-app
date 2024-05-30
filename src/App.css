@@ -1,0 +1,12 @@
+.expense-item {
+  background: linear-gradient(to right, #ff8a00, #da1b60); /* Gradient background */
+  padding: 10px;
+  margin-bottom: 10px;
+  transition: background 0.3s ease; /* Smooth transition on hover */
+  background-size: 200% 100%;
+}
+
+.expense-item:hover {
+  background-position: right center; /* Change gradient position on hover */
+  cursor: pointer; /* Change cursor on hover */
+}
